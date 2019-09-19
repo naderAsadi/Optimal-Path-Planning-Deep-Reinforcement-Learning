@@ -1,4 +1,4 @@
-# Optimal-Path-Planning-Deep-Reinforcement-Learning
+# Optimal Path Planning: Deep Reinforcement Learning
 Optimal Path Planning with Deep Reinforcement Learning
 
 Basic concepts of Q learning algorithm, markov Decision Processes, Temporal Difference, and Deep Q Networks are used 
